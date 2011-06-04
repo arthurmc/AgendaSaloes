@@ -31,7 +31,7 @@ public class AutenticacaoInterceptor implements Interceptor {
 			return false;
 		}
 		
-		return false;
+		return true;
 	}
 
 	@Override

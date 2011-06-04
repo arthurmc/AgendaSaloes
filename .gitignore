@@ -1,7 +1,6 @@
 .DS_Store
 lib/**/*
 *\lib
-*\libs-vraptor-gae
 *\classes
 *\appengine-generated
 target

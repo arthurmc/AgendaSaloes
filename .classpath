@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/JVM 1.6.0"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/GAEProject"/>
+	<classpathentry kind="lib" path="lib/default/jackson-core-asl-1.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/default/jackson-mapper-asl-1.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/default/jackson-xc-1.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/default/jaxb-api-2.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/default/jaxb-impl-2.0EA3.jar"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER/App Engine (3)"/>
+	<classpathentry kind="output" path="src/main/webapp/WEB-INF/classes"/>
+</classpath>

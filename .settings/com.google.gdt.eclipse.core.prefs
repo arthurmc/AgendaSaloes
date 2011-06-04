@@ -1,0 +1,5 @@
+#Sat May 14 14:59:42 BRT 2011
+eclipse.preferences.version=1
+jarsExcludedFromWebInfLib=/Users/arthur/desenvolvimento/workspace/AgendaSaloes/lib/default/jackson-core-asl-1.8.0.jar|/Users/arthur/desenvolvimento/workspace/AgendaSaloes/lib/default/jackson-mapper-asl-1.8.0.jar|/Users/arthur/desenvolvimento/workspace/AgendaSaloes/lib/default/jackson-xc-1.8.0.jar|/Users/arthur/desenvolvimento/workspace/AgendaSaloes/lib/default/jaxb-api-2.2.2.jar|/Users/arthur/desenvolvimento/workspace/AgendaSaloes/lib/default/jaxb-impl-2.0EA3.jar
+warSrcDir=src/main/webapp
+warSrcDirIsOutput=true
